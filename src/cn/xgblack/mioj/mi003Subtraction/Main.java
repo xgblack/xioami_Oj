@@ -1,4 +1,4 @@
-package cn.xgblack.mi003Subtraction;
+package cn.xgblack.mioj.mi003Subtraction;
 
 import java.util.Scanner;
 import java.util.Stack;

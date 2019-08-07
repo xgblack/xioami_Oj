@@ -1,4 +1,4 @@
-package cn.xgblack.mi011_short_strings;
+package cn.xgblack.mioj.mi011_short_strings;
 
 import java.util.ArrayList;
 import java.util.List;

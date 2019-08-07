@@ -1,4 +1,4 @@
-package cn.xgblack.mi030ReverseInteger;
+package cn.xgblack.mioj.mi030ReverseInteger;
 
 import java.util.Scanner;
 

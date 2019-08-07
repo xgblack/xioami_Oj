@@ -1,4 +1,4 @@
-package cn.xgblack.mi005_find_midum;
+package cn.xgblack.mioj.mi005_find_midum;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package cn.xgblack.mi002FindNum;
+package cn.xgblack.mioj.mi002FindNum;
 
 import java.io.BufferedReader;
 import java.io.IOException;

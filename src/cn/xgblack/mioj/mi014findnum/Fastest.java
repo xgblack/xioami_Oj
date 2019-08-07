@@ -1,4 +1,4 @@
-package cn.xgblack.mi014findnum;
+package cn.xgblack.mioj.mi014findnum;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package cn.xgblack.mi004_continuous_sequence_N;
+package cn.xgblack.mioj.mi004_continuous_sequence_N;
 
 import java.util.Scanner;
 
