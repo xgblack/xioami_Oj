@@ -6,13 +6,7 @@ package cn.xgblack.leetcode.l0933number_of_recent_calls;
  * description:
  */
 public class RecentCounter {
-    public RecentCounter() {
 
-    }
-
-    public int ping(int t) {
-
-    }
 }
 /**
  * Your RecentCounter object will be instantiated and called as such:
